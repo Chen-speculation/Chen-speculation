@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-      - 🔭 I’m currently working in Apecloud
+      - 🔭 I’m currently working in Antgroup/OceanBase
       - 🌱 I’m currently learning CloudNative&AI and anything about it
       - 💬 Ask me about Kubeblocks or Kubenertes
       - 📫 How to reach me: my email chenspeculation@foxmail.com

@@ -5,8 +5,7 @@
 
 <div align="center">
       - 🔭 I’m currently working in Kwai/Kling
-      - Used to be in Antgroup/OceanBase
-      - 🌱 I’m currently learning CloudNative&AI and anything about it
+      - 🌱 I’m currently learning AI&&CloudNative&&Database and anything about it
       - 📫 How to reach me: my email chenspeculation@foxmail.com
 </div>
 

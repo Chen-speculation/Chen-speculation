@@ -8,7 +8,7 @@
   <br/>
 
   <!-- 一句话简介 -->
-  <p><strong>🔭 Building AI infrastructure at <a href="https://github.com/karmada-io">Kwai / Kling</a> | 🌱 Exploring the intersection of AI & CloudNative</strong></p>
+  <p><strong>🔭 Building AI infrastructure at <a href="https://kling.ai/">Kwai / Kling</a> | 🌱 Exploring the intersection of AI & CloudNative</strong></p>
 
 </div>
 
